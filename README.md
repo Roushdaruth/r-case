@@ -121,8 +121,6 @@ Projet personnel, mené de bout en bout pour ma propre activité (octobre–nove
 - mise en production ;
 - utilisation au quotidien.
 
-Le code a été écrit avec l'aide d'un assistant IA (Claude, d'Anthropic), que j'ai dirigé, testé et corrigé à chaque étape.
-
 **Ce que ce projet m'a appris** :
 - modéliser une base relationnelle et sécuriser l'accès avec des règles RLS ;
 - penser comme un attaquant pour trouver les failles de sa propre application ;
@@ -131,7 +129,7 @@ Le code a été écrit avec l'aide d'un assistant IA (Claude, d'Anthropic), que 
 ## Contact
 
 Roushda Ruth YOUBI · étudiante ingénieure à l'UCAC-ICAM (Douala)
-[LinkedIn](https://www.linkedin.com/) · [ton.email@exemple.com](mailto:ton.email@exemple.com)
+[Roushdaruth](https://www.linkedin.com/) · [ruth.youbi@2028.icam.fr](mailto:ton.email@exemple.com)
 
 ---
 © 2026 R-Case. Le code est visible à titre de portfolio. Le nom, le logo, les visuels et les photos appartiennent à R-Case.
